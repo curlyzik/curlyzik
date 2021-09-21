@@ -1,3 +1,4 @@
+<img alt="Wave" src="./Hand%20Wave.gif" width='40' align="left"/>
 # Hey there! I'm Isaac.
 
 I'm a Fullstack Web Developer. I'm very passionate about building web apps and using my skills to solve problems.
