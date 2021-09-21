@@ -11,9 +11,7 @@ I'm a Fullstack Web Developer. I'm very passionate about building web apps and u
 ## Find me around the web 🌍
 
 - [LinkedIn](https://www.linkedin.com/in/nzekwe-isaac-b695a920b/)
-- [Twitter](https://twitter.com/isaac_fortunes)
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/curlyzik/curlyzik/main/Night-Coding.gif" align="right"/>
+- [Twitter](https://twitter.com/isaac_fortunes) 
 
 ## My Skills 🚀
 
