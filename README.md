@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! Nzekwe Isaac.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -9,6 +7,16 @@
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
+## Find me around the web 🌍
+
+- [Instagram](https://www.instagram.com/teen_developer/)
+- [LinkedIn](https://www.linkedin.com/in/saviomartin)
+- [Twitter](https://twitter.com/saviomartin7)
+- [Codepen](https://codepen.io/saviomartin/)
+- [Figma](https://www.figma.com/@saviomartin)
+- [Hashnode](https://hashnode.com/@saviomartin)
+- [Dev.to](https://dev.to/saviomartin)
 
 <h3> 🛠 &nbsp;My Skills 🚀</h3>
 
