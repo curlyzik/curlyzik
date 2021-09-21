@@ -2,11 +2,11 @@
 
 I'm a Fullstack Web Developer. I'm very passionate about building web apps and using my skills to solve problems.
 
-💡  I like to explore new technologies.
-💬 Ask me about: Python, Django, JavaScript, ReactJS, Next.JS
-🌱  I'm on track to learning more about Web 3.0
-📫 How to reach me: [@isaac_fortunes](https://www.instagram.com/teen_developer/)
-😄 Pronouns: He/Him
+- 💡  I like to explore new technologies.
+- 💬 Ask me about: Python, Django, JavaScript, ReactJS, Next.JS
+- 🌱  I'm on track to learning more about Web 3.0
+- 📫 How to reach me: [@isaac_fortunes](https://www.instagram.com/teen_developer/)
+- 😄 Pronouns: He/Him
 
 ## Find me around the web 🌍
 
@@ -20,6 +20,7 @@ I'm a Fullstack Web Developer. I'm very passionate about building web apps and u
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=nextjs&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
