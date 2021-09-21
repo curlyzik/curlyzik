@@ -18,6 +18,7 @@ I'm a Fullstack Web Developer. I'm very passionate about building web apps and u
 ![](https://img.shields.io/badge/Python-430098?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)\
 ![](https://img.shields.io/badge/Django-05122A?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)&nbsp;
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=nextjs&logoColor=61DAFB)&nbsp;
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
