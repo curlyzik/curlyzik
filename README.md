@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hey there! I'm Isaac.</h2>
+# <img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h1>Hey there! I'm Isaac.</h2>
 
 I'm a Fullstack Web Developer. I'm very passionate about building web apps and using my skills to solve problems.
 
