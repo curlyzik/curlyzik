@@ -13,6 +13,8 @@ I'm a Fullstack Web Developer. I'm very passionate about building web apps and u
 - [LinkedIn](https://www.linkedin.com/in/nzekwe-isaac-b695a920b/)
 - [Twitter](https://twitter.com/isaac_fortunes)
 
+<img alt="Coding" src="https://pasteboard.co/wruVBvHwSVD8.gif" align="right"/>
+
 ## My Skills 🚀
 
 ![](https://img.shields.io/badge/Python-430098?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -33,7 +35,7 @@ I'm a Fullstack Web Developer. I'm very passionate about building web apps and u
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### ⚙️ GitHub Analytics
+## GitHub Analytics ⚙️
 
 <p align="left">
 <a href="https://github.com/curlyzik">
