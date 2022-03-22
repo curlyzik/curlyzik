@@ -2,11 +2,10 @@
 
 I'm a Fullstack Web Developer. I'm very passionate about building web apps and using my skills to solve problems.
 
-- 💡  I like to explore new technologies.
+- 💡  Building [Varsity PQ](https://varsitypq.com/)
 - 💬 Ask me about: Python, Django, JavaScript, ReactJS, Next.JS
-- 🌱  I'm on track to learning more about Web 3.0
+- 🌱  Learning more about Web 3.0 and Typescript
 - 📫 How to reach me: [@isaac_fortunes](https://twitter.com/isaac_fortunes/)
-- 😄 Pronouns: He/Him
 
 ## Find me around the web 🌍
 
