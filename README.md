@@ -4,8 +4,7 @@ I'm a Software Developer with over 3+ years of experience, focusing on Fullstack
 
 I am the creator of [Varsity PQ](https://varsitypq.com/), a web app that helps students from 160+ universities across Nigeria find past questions to different courses of their discipline online.
 
-- 💡  Building [Varsity PQ](https://varsitypq.com/)
-- 🌱  Learning more about Web 3.0 and its ecosystem and Typescript
+I'm also learning more about Web 3.0 and its ecosystem and Typescript.
 
 ## Find me around the web 🌍
 - [LinkedIn](https://www.linkedin.com/in/nzekwe-isaac/)
