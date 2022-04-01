@@ -2,7 +2,7 @@
 
 I'm a Software Developer with over 3+ years of experience, focusing on Fullstack Development with an emphasis on Frontend Engineering. I use Python and Javascript along with their frameworks to build fullstack apps for the web.
 
-I am the creator of Varsity PQ, a web app where students from 160+ universities across Nigeria could find over 300+ past questions to different courses of their discipline online.
+I am the creator of [Varsity PQ](https://varsitypq.com/), a web app that helps students from 160+ universities across Nigeria find past questions to different courses of their discipline online.
 
 - 💡  Building [Varsity PQ](https://varsitypq.com/)
 - 🌱  Learning more about Web 3.0 and its ecosystem and Typescript
