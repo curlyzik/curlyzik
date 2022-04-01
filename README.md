@@ -6,7 +6,7 @@ I am the creator of Varsity PQ, a web app where students from various universiti
 
 - 💡  Building [Varsity PQ](https://varsitypq.com/)
 - 💬 Ask me about: Python, Django, JavaScript, ReactJS, Next.JS
-- 🌱  Learning more about Web 3.0 and Typescript
+- 🌱  Learning more about Web 3.0 and its ecosystem and Typescript
 - 📫 How to reach me: [@isaac_fortunes](https://twitter.com/isaac_fortunes/)
 
 ## Find me around the web 🌍
