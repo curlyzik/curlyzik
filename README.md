@@ -1,6 +1,6 @@
 # <img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/> Hey there! I'm Isaac
 
-Hi there! 👋️ I'm a Software Developer with over 3+ years of experience, focusing on Fullstack Development with an emphasis on Frontend Engineering. Highly skilled in solving problems with Django, Django REST Framework, React, Nextjs, Redux Toolkit, Ant Design.
+I'm a Software Developer with over 3+ years of experience, focusing on Fullstack Development with an emphasis on Frontend Engineering. Highly skilled in solving problems with Django, Django REST Framework, React, Nextjs, Redux Toolkit, Ant Design.
 
 I am the creator of Varsity PQ, a web app where students from various universities across Nigeria could find past questions to different courses of their discipline online. Varsity PQ is made up of 300+ curated past questions from 160+ universites.
 
