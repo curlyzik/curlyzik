@@ -7,7 +7,7 @@ I am the creator of [Varsity PQ](https://varsitypq.com/), a web app that helps s
 I'm also learning more about Web 3.0 and its ecosystem and Typescript.
 
 ## Find me around the web 🌍
-- [LinkedIn](https://www.linkedin.com/in/nzekwe-isaac/)
+- [LinkedIn](www.linkedin.com/in/isaac-nzekwe)
 - [Twitter](https://twitter.com/curlyzik) 
 
 ## My Skills 🚀
