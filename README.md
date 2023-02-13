@@ -1,10 +1,6 @@
 # <img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/> Hey there! I'm Isaac
 
-I'm a Software Developer with over 3+ years of experience, focusing on Fullstack Development with an emphasis on Frontend Engineering. I use Python and Javascript along with their frameworks to build fullstack apps for the web.
-
-I am the creator of [Varsity PQ](https://varsitypq.com/), a web app that helps students from 160+ universities across Nigeria find past questions to different courses of their discipline online.
-
-I'm also learning more about Web 3.0 and its ecosystem and Typescript.
+I'm a Frontend Engineer with 3+ years of experience helping businesses improve efficiency through the development of web-based software solutions using JavaScript, Typescript, React, and Nextjs and their related tools and technologies.
 
 ## Find me around the web 🌍
 - [LinkedIn](https://linkedin.com/in/isaac-nzekwe)
