@@ -6,9 +6,9 @@ I'm a Frontend Engineer with 3+ years of experience helping businesses improve e
 - [LinkedIn](https://linkedin.com/in/isaac-nzekwe)
 - [Twitter](https://twitter.com/curlyzik) 
 
-## My Skills 🚀
+<!-- ## My Skills 🚀 -->
 
-![](https://img.shields.io/badge/Python-430098?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+<!-- ![](https://img.shields.io/badge/Python-430098?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)\
 ![](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)&nbsp;
@@ -24,9 +24,9 @@ I'm a Frontend Engineer with 3+ years of experience helping businesses improve e
 ![](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)\
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)\
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) -->
 
-## GitHub Analytics ⚙️
+<!-- ## GitHub Analytics ⚙️
 
 <p align="left">
 <a href="https://github.com/curlyzik">
@@ -34,3 +34,4 @@ I'm a Frontend Engineer with 3+ years of experience helping businesses improve e
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curlyzik&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+ -->
