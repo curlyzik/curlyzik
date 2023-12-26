@@ -3,8 +3,9 @@
 I'm a Frontend Engineer with 3+ years of experience helping businesses improve efficiency through the development of web-based software solutions using Typescript, React, and Nextjs and their related tools and technologies.
 
 ## Find me around the web 🌍
+- [Portfolio](https://curlyzik.super.site/) 
 - [LinkedIn](https://linkedin.com/in/isaac-nzekwe)
-- [Twitter](https://twitter.com/curlyzik) 
+- [Twitter](https://twitter.com/curlyzik)
 
 <!-- ## My Skills 🚀 -->
 
